@@ -1,0 +1,17 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIME ZONES
+        key[]: "tz_cst"
+        val[]: "CST" #China Standard Time
+
+	#TAIWAN
+        key[]: "taiwan"
+        val[]: "Taiwan"
+		
+	#CHINA
+        key[]: "urumchi"
+        val[]: "Urumchi"
+}
+}
