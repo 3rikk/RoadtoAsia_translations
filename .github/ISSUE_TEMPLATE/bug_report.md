@@ -1,7 +1,7 @@
 ---
-name: Bug report
+name: Map bug (hole in terrain etc.)
 about: Create a report to help us improve
-title: "[BUG]"
+title: ''
 labels: ''
 assignees: ''
 
