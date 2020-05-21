@@ -1,11 +1,14 @@
 ---
 name: Wrong translation
-about: Create a report to help us improve
+about: If you found a wrong translation...
 title: ''
 labels: Wrong translation
 assignees: ''
 
 ---
+
+**Language**
+To what language is the problem related?
 
 **What is wrong?**
 Which one translation is wrong? Why (if you feel it needs explaining)?
